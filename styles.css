@@ -125,3 +125,22 @@ h4 {
     background-color: black;
     color: rgb(255, 106, 106);
 }
+
+@media screen and (max-width: 420px) {
+
+    .carta-pizza {
+
+        width: 300px;
+    }
+
+    .img-pizza {
+    top: 150px;
+       left: 210px;
+        
+    }
+
+    h2 {
+
+        font-size: 22px;
+    }
+}
